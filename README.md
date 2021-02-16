@@ -3,7 +3,8 @@ A Alfred Worflow to interact with Stretchly
 
 # Installation
 ## Requirments
-stretchFred requires you to have [Strechly](https://hovancik.net/stretchly/) installed. stretchFred uses the CLI options of Stretchly and will look voor Stretchly at `/Applications/Stretchly.app/Contents/MacOS/Stretchly`
+- stretchFred requires you to have [Strechly](https://hovancik.net/stretchly/) installed. stretchFred uses the CLI options of Stretchly and will look voor Stretchly at `/Applications/Stretchly.app/Contents/MacOS/Stretchly`
+- Custom Workflows require Alfred Powerpack licence. It's well worth the money 
 
 ## Installation
 Simply download the latest [release](https://github.com/KingOfSpades/stretchFred/releases/) from the releases page or get the `.workflow` file from GiT
